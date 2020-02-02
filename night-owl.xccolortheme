@@ -10,23 +10,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>DankMono-Italic - 14.0</string>
+	<string>OperatorMono-Book - 14.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>DankMono-Italic - 14.0</string>
+	<string>OperatorMono-BookItalic - 14.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.313725 0.980392 0.482353 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>DankMono-Italic - 14.0</string>
+	<string>OperatorMono-Book - 14.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>DankMono-Italic - 14.0</string>
+	<string>OperatorMono-BookItalic - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>DankMono-Italic - 14.0</string>
+	<string>OperatorMono-BookItalic - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0 0.0470588 0.113725 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -193,7 +193,7 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>OperatorMono-BookItalic - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>OperatorMono-BookItalic - 14.0</string>
+		<string>OperatorMono-BookItalic - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>OperatorMono-BookItalic - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
